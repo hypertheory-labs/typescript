@@ -56,4 +56,5 @@ describe('Being Explicit', () => {
             expect(thing.sqwak()).toEqual('CaCaw! CaCaw!');
         }
     });
-})
+
+});
